@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.conda/
+.venv/
+*.pyc
+*.zip
+*.log
+/runs/
+/diagnostics/
+/demo_output/

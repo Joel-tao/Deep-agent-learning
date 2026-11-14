@@ -1,0 +1,7 @@
+condition,checkpoint_kind,training_steps,reach_rate,grasp_rate,success_rate,stable_lift_rate,episodes
+fixed,before,100000,0.8,0.1,0.0,0.0,20
+fixed,after,200000,0.65,0.4,0.0,0.0,20
+fixed,selected_best,130000,0.3,0.05,0.0,0.0,20
+adaptive,before,100000,1.0,0.35,0.1,0.05,20
+adaptive,after,200000,0.9,0.25,0.05,0.05,20
+adaptive,selected_best,150000,0.8,0.4,0.0,0.0,20

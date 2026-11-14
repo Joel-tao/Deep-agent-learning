@@ -1,0 +1,12 @@
+.........                                                                [100%]
+============================== warnings summary ===============================
+test_environment.py::test_gymnasium_and_sb3
+  F:\5418\.conda\grasp_rl\lib\site-packages\gymnasium\utils\env_checker.py:311: UserWarning: [33mWARN: A Box observation space minimum value is -infinity. This is probably too low.[0m
+    logger.warn(
+
+test_environment.py::test_gymnasium_and_sb3
+  F:\5418\.conda\grasp_rl\lib\site-packages\gymnasium\utils\env_checker.py:315: UserWarning: [33mWARN: A Box observation space maximum value is infinity. This is probably too high.[0m
+    logger.warn(
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+9 passed, 2 warnings in 22.38s

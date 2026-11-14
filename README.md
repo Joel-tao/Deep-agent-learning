@@ -8,6 +8,12 @@ The animation projects actual simulation positions onto the XZ plane. The script
 
 ## Run locally
 
+The original Gymnasium environment milestone is in [GraspRL](GraspRL/README.md). It includes the `AdaptiveGrasp-v0` environment, reward scheduler, replay buffer, tests, report, and generated results.
+
+![Original Gymnasium environment grasp demonstration](GraspRL/results/scripted_grasp.png)
+
+[Scripted grasp video](GraspRL/results/scripted_demo.mp4) · [Random policy video](GraspRL/results/random_demo.mp4)
+
 ```bash
 conda env create -f environment.yml
 conda activate learning_agent_g36

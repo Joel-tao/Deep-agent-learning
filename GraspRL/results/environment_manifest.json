@@ -1,0 +1,89 @@
+{
+  "platform": "Windows-10-10.0.26200-SP0",
+  "python": "3.10.22",
+  "versions": {
+    "robosuite": "1.5.2",
+    "mujoco": "3.3.7",
+    "gymnasium": "1.2.1",
+    "stable-baselines3": "2.7.0",
+    "numpy": "1.26.4",
+    "torch": "2.14.1"
+  },
+  "observation_dim": 60,
+  "selected_keys": [
+    "robot0_proprio-state",
+    "object-state"
+  ],
+  "raw_observation_shapes": {
+    "robot0_joint_pos": [
+      7
+    ],
+    "robot0_joint_pos_cos": [
+      7
+    ],
+    "robot0_joint_pos_sin": [
+      7
+    ],
+    "robot0_joint_vel": [
+      7
+    ],
+    "robot0_joint_acc": [
+      7
+    ],
+    "robot0_eef_pos": [
+      3
+    ],
+    "robot0_eef_quat": [
+      4
+    ],
+    "robot0_eef_quat_site": [
+      4
+    ],
+    "robot0_gripper_qpos": [
+      2
+    ],
+    "robot0_gripper_qvel": [
+      2
+    ],
+    "cube_pos": [
+      3
+    ],
+    "cube_quat": [
+      4
+    ],
+    "gripper_to_cube_pos": [
+      3
+    ],
+    "robot0_proprio-state": [
+      50
+    ],
+    "object-state": [
+      10
+    ]
+  },
+  "action_low": [
+    -1.0,
+    -1.0,
+    -1.0,
+    -1.0,
+    -1.0,
+    -1.0,
+    -1.0
+  ],
+  "action_high": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "reach_threshold_m": 0.05,
+  "table_z_m": 0.8,
+  "lift_success_center_z_m": 0.8400000000000001,
+  "control_hz": 20,
+  "simulation_timestep_s": 0.002,
+  "total_ram_gib": 23.81,
+  "available_ram_gib_at_check": 11.29
+}

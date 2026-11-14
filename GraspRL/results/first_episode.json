@@ -1,0 +1,33 @@
+[
+  {
+    "episode": 0,
+    "seed": 42,
+    "policy": "random",
+    "mode": "fixed",
+    "steps": 4,
+    "return": 0.21689212322235107,
+    "terminated": false,
+    "truncated": true,
+    "success": false,
+    "stage_ever": [
+      false,
+      false,
+      false
+    ],
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 0,
+      "window_count": 0,
+      "rates": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  }
+]

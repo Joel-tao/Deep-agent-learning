@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-15",
+  "main_tests": {
+    "name": "pytest",
+    "errors": "0",
+    "failures": "0",
+    "skipped": "0",
+    "tests": "9",
+    "time": "22.378",
+    "timestamp": "2026-10-15T06:26:04.382190+08:00",
+    "hostname": "LAPTOP-90QD540V"
+  },
+  "fresh_environment_tests": {
+    "name": "pytest",
+    "errors": "0",
+    "failures": "0",
+    "skipped": "0",
+    "tests": "9",
+    "time": "57.012",
+    "timestamp": "2026-10-15T06:29:31.021935+08:00",
+    "hostname": "LAPTOP-90QD540V"
+  },
+  "robot_demo": {
+    "episode": 0,
+    "seed": 42,
+    "policy": "scripted",
+    "mode": "fixed",
+    "steps": 59,
+    "return": 18.867033999413252,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 654.6,
+    "elapsed_seconds": 2.716,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 0,
+      "window_count": 0,
+      "rates": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "random_demo": {
+    "episode": 0,
+    "seed": 42,
+    "policy": "random",
+    "mode": "fixed",
+    "steps": 200,
+    "return": 5.625230493023992,
+    "terminated": false,
+    "truncated": true,
+    "success": false,
+    "stage_ever": [
+      false,
+      false,
+      false
+    ],
+    "peak_process_ram_mib": 655.1,
+    "elapsed_seconds": 6.686,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 0,
+      "window_count": 0,
+      "rates": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "adaptive_30_episode_final_state": {
+    "stage": 2,
+    "weights": [
+      0.10000000149011612,
+      0.20000000298023224,
+      0.699999988079071
+    ],
+    "episodes": 30,
+    "window_count": 20,
+    "rates": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "sac_smoke": {
+    "steps": 256,
+    "gradient_updates": 224,
+    "seed": 42,
+    "mode": "adaptive",
+    "relabel": true,
+    "observation_dim": 60,
+    "action_dim": 7,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 1,
+      "window_count": 1,
+      "rates": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "peak_process_ram_mib": 802.0,
+    "note": "Training execution only; no claim of learned grasping performance."
+  },
+  "reproduced_demo_success": true,
+  "full_research_training_completed": false
+}

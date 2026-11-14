@@ -1,0 +1,156 @@
+[robosuite WARNING] No private macro file found! (macros.py:57)
+[robosuite WARNING] It is recommended to use a private macro file (macros.py:58)
+[robosuite WARNING] To setup, run: python F:\5418\.conda\grasp_rl\lib\site-packages\robosuite/scripts/setup_macros.py (macros.py:59)
+[robosuite WARNING] Could not import robosuite_models. Some robots may not be available. If you want to use these robots, please install robosuite_models from source (https://github.com/ARISE-Initiative/robosuite_models) or through pip install. (__init__.py:30)
+[robosuite WARNING] Could not load the mink-based whole-body IK. Make sure you install related import properly, otherwise you will not be able to use the default IK controller setting for GR1 robot. (__init__.py:40)
+[robosuite INFO] Loading controller configuration from: F:\5418\.conda\grasp_rl\lib\site-packages\robosuite\controllers\config\default\composite\basic.json (composite_controller_factory.py:121)
+Episode 0: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1178 terminated=False truncated=False distance=0.2218 grasp=False success=False
+step=21 reward=0.3183 terminated=False truncated=False distance=0.1019 grasp=False success=False
+step=41 reward=0.8777 terminated=False truncated=False distance=0.0074 grasp=True success=False
+step=59 reward=0.9786 terminated=True truncated=False distance=0.0071 grasp=True success=True
+Episode 1: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1354 terminated=False truncated=False distance=0.2062 grasp=False success=False
+step=21 reward=0.3827 terminated=False truncated=False distance=0.0759 grasp=False success=False
+step=41 reward=0.8785 terminated=False truncated=False distance=0.0072 grasp=True success=False
+step=56 reward=0.9793 terminated=True truncated=False distance=0.0069 grasp=True success=True
+Episode 2: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1330 terminated=False truncated=False distance=0.2082 grasp=False success=False
+step=21 reward=0.3826 terminated=False truncated=False distance=0.0759 grasp=False success=False
+step=41 reward=0.8767 terminated=False truncated=False distance=0.0078 grasp=True success=False
+step=56 reward=0.9777 terminated=True truncated=False distance=0.0074 grasp=True success=True
+Episode 3: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1251 terminated=False truncated=False distance=0.2151 grasp=False success=False
+step=21 reward=0.3389 terminated=False truncated=False distance=0.0933 grasp=False success=False
+step=41 reward=0.8770 terminated=False truncated=False distance=0.0077 grasp=True success=False
+step=58 reward=0.9779 terminated=True truncated=False distance=0.0074 grasp=True success=True
+Episode 4: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1192 terminated=False truncated=False distance=0.2205 grasp=False success=False
+step=21 reward=0.3182 terminated=False truncated=False distance=0.1019 grasp=False success=False
+step=41 reward=0.5790 terminated=False truncated=False distance=0.0070 grasp=False success=False
+step=59 reward=0.9798 terminated=True truncated=False distance=0.0067 grasp=True success=True
+Episode 5: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1164 terminated=False truncated=False distance=0.2231 grasp=False success=False
+step=21 reward=0.3182 terminated=False truncated=False distance=0.1019 grasp=False success=False
+step=41 reward=0.8763 terminated=False truncated=False distance=0.0079 grasp=True success=False
+step=59 reward=0.9773 terminated=True truncated=False distance=0.0076 grasp=True success=True
+Episode 6: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1267 terminated=False truncated=False distance=0.2137 grasp=False success=False
+step=21 reward=0.3603 terminated=False truncated=False distance=0.0846 grasp=False success=False
+step=41 reward=0.8783 terminated=False truncated=False distance=0.0072 grasp=True success=False
+step=57 reward=0.9791 terminated=True truncated=False distance=0.0070 grasp=True success=True
+Episode 7: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1117 terminated=False truncated=False distance=0.2277 grasp=False success=False
+step=21 reward=0.2988 terminated=False truncated=False distance=0.1104 grasp=False success=False
+step=41 reward=0.8757 terminated=False truncated=False distance=0.0081 grasp=True success=False
+step=60 reward=0.9769 terminated=True truncated=False distance=0.0077 grasp=True success=True
+Episode 8: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1263 terminated=False truncated=False distance=0.2140 grasp=False success=False
+step=21 reward=0.3603 terminated=False truncated=False distance=0.0846 grasp=False success=False
+step=41 reward=0.8790 terminated=False truncated=False distance=0.0070 grasp=True success=False
+step=57 reward=0.9796 terminated=True truncated=False distance=0.0068 grasp=True success=True
+Episode 9: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1206 terminated=False truncated=False distance=0.2192 grasp=False success=False
+step=21 reward=0.3388 terminated=False truncated=False distance=0.0933 grasp=False success=False
+step=41 reward=0.8795 terminated=False truncated=False distance=0.0069 grasp=True success=False
+step=58 reward=0.9799 terminated=True truncated=False distance=0.0067 grasp=True success=True
+Episode 10: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1417 terminated=False truncated=False distance=0.2010 grasp=False success=False
+step=21 reward=0.4055 terminated=False truncated=False distance=0.0673 grasp=False success=False
+step=41 reward=0.8780 terminated=False truncated=False distance=0.0073 grasp=True success=False
+step=55 reward=0.9788 terminated=True truncated=False distance=0.0071 grasp=True success=True
+Episode 11: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1200 terminated=False truncated=False distance=0.2197 grasp=False success=False
+step=21 reward=0.3390 terminated=False truncated=False distance=0.0932 grasp=False success=False
+step=41 reward=0.8787 terminated=False truncated=False distance=0.0071 grasp=True success=False
+step=58 reward=0.9794 terminated=True truncated=False distance=0.0069 grasp=True success=True
+Episode 12: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1376 terminated=False truncated=False distance=0.2044 grasp=False success=False
+step=21 reward=0.4056 terminated=False truncated=False distance=0.0672 grasp=False success=False
+step=41 reward=0.8775 terminated=False truncated=False distance=0.0075 grasp=True success=False
+step=55 reward=0.9781 terminated=True truncated=False distance=0.0073 grasp=True success=True
+Episode 13: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1120 terminated=False truncated=False distance=0.2273 grasp=False success=False
+step=21 reward=0.2990 terminated=False truncated=False distance=0.1103 grasp=False success=False
+step=41 reward=0.5773 terminated=False truncated=False distance=0.0076 grasp=False success=False
+step=60 reward=0.9797 terminated=True truncated=False distance=0.0068 grasp=True success=True
+Episode 14: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1325 terminated=False truncated=False distance=0.2086 grasp=False success=False
+step=21 reward=0.3826 terminated=False truncated=False distance=0.0759 grasp=False success=False
+step=41 reward=0.8795 terminated=False truncated=False distance=0.0068 grasp=True success=False
+step=56 reward=0.9800 terminated=True truncated=False distance=0.0067 grasp=True success=True
+Episode 15: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1205 terminated=False truncated=False distance=0.2193 grasp=False success=False
+step=21 reward=0.3388 terminated=False truncated=False distance=0.0933 grasp=False success=False
+step=41 reward=0.8765 terminated=False truncated=False distance=0.0078 grasp=True success=False
+step=58 reward=0.9776 terminated=True truncated=False distance=0.0075 grasp=True success=True
+Episode 16: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1391 terminated=False truncated=False distance=0.2032 grasp=False success=False
+step=21 reward=0.4054 terminated=False truncated=False distance=0.0673 grasp=False success=False
+step=41 reward=0.8771 terminated=False truncated=False distance=0.0077 grasp=True success=False
+step=55 reward=0.9778 terminated=True truncated=False distance=0.0074 grasp=True success=True
+Episode 17: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1114 terminated=False truncated=False distance=0.2280 grasp=False success=False
+step=21 reward=0.2989 terminated=False truncated=False distance=0.1103 grasp=False success=False
+step=41 reward=0.5768 terminated=False truncated=False distance=0.0077 grasp=False success=False
+step=60 reward=0.9777 terminated=True truncated=False distance=0.0074 grasp=True success=True
+Episode 18: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1117 terminated=False truncated=False distance=0.2276 grasp=False success=False
+step=21 reward=0.2988 terminated=False truncated=False distance=0.1104 grasp=False success=False
+step=41 reward=0.8762 terminated=False truncated=False distance=0.0079 grasp=True success=False
+step=60 reward=0.9772 terminated=True truncated=False distance=0.0076 grasp=True success=True
+Episode 19: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1219 terminated=False truncated=False distance=0.2179 grasp=False success=False
+step=21 reward=0.3388 terminated=False truncated=False distance=0.0933 grasp=False success=False
+step=41 reward=0.8763 terminated=False truncated=False distance=0.0079 grasp=True success=False
+step=58 reward=0.9774 terminated=True truncated=False distance=0.0075 grasp=True success=True
+Episode 20: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1150 terminated=False truncated=False distance=0.2244 grasp=False success=False
+step=21 reward=0.3183 terminated=False truncated=False distance=0.1019 grasp=False success=False
+step=41 reward=0.5788 terminated=False truncated=False distance=0.0071 grasp=False success=False
+step=59 reward=0.9796 terminated=True truncated=False distance=0.0068 grasp=True success=True
+Episode 21: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1347 terminated=False truncated=False distance=0.2068 grasp=False success=False
+step=21 reward=0.3827 terminated=False truncated=False distance=0.0759 grasp=False success=False
+step=41 reward=0.8798 terminated=False truncated=False distance=0.0067 grasp=True success=False
+step=56 reward=0.9803 terminated=True truncated=False distance=0.0066 grasp=True success=True
+Episode 22: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1232 terminated=False truncated=False distance=0.2168 grasp=False success=False
+step=21 reward=0.3389 terminated=False truncated=False distance=0.0933 grasp=False success=False
+step=41 reward=0.8789 terminated=False truncated=False distance=0.0070 grasp=True success=False
+step=58 reward=0.9796 terminated=True truncated=False distance=0.0068 grasp=True success=True
+Episode 23: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1422 terminated=False truncated=False distance=0.2007 grasp=False success=False
+step=21 reward=0.4055 terminated=False truncated=False distance=0.0673 grasp=False success=False
+step=41 reward=0.8794 terminated=False truncated=False distance=0.0069 grasp=True success=False
+step=55 reward=0.9800 terminated=True truncated=False distance=0.0067 grasp=True success=True
+Episode 24: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.6, 0.3, 0.1], dtype=float32)}
+step=1 reward=0.1280 terminated=False truncated=False distance=0.2125 grasp=False success=False
+step=21 reward=0.3605 terminated=False truncated=False distance=0.0845 grasp=False success=False
+step=41 reward=0.8781 terminated=False truncated=False distance=0.0073 grasp=True success=False
+step=57 reward=0.9789 terminated=True truncated=False distance=0.0070 grasp=True success=True
+Episode 25: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.1, 0.2, 0.7], dtype=float32)}
+step=1 reward=0.0219 terminated=False truncated=False distance=0.2097 grasp=False success=False
+step=21 reward=0.0638 terminated=False truncated=False distance=0.0759 grasp=False success=False
+step=41 reward=0.2961 terminated=False truncated=False distance=0.0077 grasp=True success=False
+step=56 reward=0.9963 terminated=True truncated=False distance=0.0075 grasp=True success=True
+Episode 26: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.1, 0.2, 0.7], dtype=float32)}
+step=1 reward=0.0212 terminated=False truncated=False distance=0.2132 grasp=False success=False
+step=21 reward=0.0601 terminated=False truncated=False distance=0.0846 grasp=False success=False
+step=41 reward=0.2961 terminated=False truncated=False distance=0.0077 grasp=True success=False
+step=57 reward=0.9963 terminated=True truncated=False distance=0.0075 grasp=True success=True
+Episode 27: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.1, 0.2, 0.7], dtype=float32)}
+step=1 reward=0.0214 terminated=False truncated=False distance=0.2124 grasp=False success=False
+step=21 reward=0.0601 terminated=False truncated=False distance=0.0845 grasp=False success=False
+step=41 reward=0.2961 terminated=False truncated=False distance=0.0077 grasp=True success=False
+step=57 reward=0.9963 terminated=True truncated=False distance=0.0074 grasp=True success=True
+Episode 28: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.1, 0.2, 0.7], dtype=float32)}
+step=1 reward=0.0237 terminated=False truncated=False distance=0.2009 grasp=False success=False
+step=21 reward=0.0676 terminated=False truncated=False distance=0.0673 grasp=False success=False
+step=41 reward=0.2966 terminated=False truncated=False distance=0.0068 grasp=True success=False
+step=55 reward=0.9967 terminated=True truncated=False distance=0.0066 grasp=True success=True
+Episode 29: observation=(60,), action=(7,), reset_info={'reward_mode': 'adaptive', 'weights': array([0.1, 0.2, 0.7], dtype=float32)}
+step=1 reward=0.0229 terminated=False truncated=False distance=0.2047 grasp=False success=False
+step=21 reward=0.0676 terminated=False truncated=False distance=0.0673 grasp=False success=False
+step=41 reward=0.2965 terminated=False truncated=False distance=0.0070 grasp=True success=False
+step=55 reward=0.9966 terminated=True truncated=False distance=0.0068 grasp=True success=True

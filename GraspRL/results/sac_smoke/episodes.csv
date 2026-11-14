@@ -1,0 +1,2 @@
+step,success,reach,grasp,lift,w_reach,w_grasp,w_lift
+200,False,False,False,False,0.6000000238418579,0.30000001192092896,0.10000000149011612

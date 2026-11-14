@@ -1,0 +1,9 @@
+Collecting mujoco==3.3.7
+  Using cached mujoco-3.3.7-cp310-cp310-win_amd64.whl.metadata (42 kB)
+Using cached mujoco-3.3.7-cp310-cp310-win_amd64.whl (5.3 MB)
+Installing collected packages: mujoco
+  Attempting uninstall: mujoco
+    Found existing installation: mujoco 3.16.0
+    Uninstalling mujoco-3.16.0:
+      Successfully uninstalled mujoco-3.16.0
+Successfully installed mujoco-3.3.7

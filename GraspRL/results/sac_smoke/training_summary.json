@@ -1,0 +1,26 @@
+{
+  "steps": 256,
+  "gradient_updates": 224,
+  "seed": 42,
+  "mode": "adaptive",
+  "relabel": true,
+  "observation_dim": 60,
+  "action_dim": 7,
+  "scheduler": {
+    "stage": 0,
+    "weights": [
+      0.6000000238418579,
+      0.30000001192092896,
+      0.10000000149011612
+    ],
+    "episodes": 1,
+    "window_count": 1,
+    "rates": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "peak_process_ram_mib": 802.0,
+  "note": "Training execution only; no claim of learned grasping performance."
+}

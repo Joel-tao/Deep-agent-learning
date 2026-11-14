@@ -1,0 +1,35 @@
+[
+  {
+    "episode": 0,
+    "seed": 42,
+    "policy": "random",
+    "mode": "fixed",
+    "steps": 200,
+    "return": 5.625230493023992,
+    "terminated": false,
+    "truncated": true,
+    "success": false,
+    "stage_ever": [
+      false,
+      false,
+      false
+    ],
+    "peak_process_ram_mib": 655.1,
+    "elapsed_seconds": 6.686,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 0,
+      "window_count": 0,
+      "rates": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  }
+]

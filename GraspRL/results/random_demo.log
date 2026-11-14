@@ -1,0 +1,18 @@
+[robosuite WARNING] No private macro file found! (macros.py:57)
+[robosuite WARNING] It is recommended to use a private macro file (macros.py:58)
+[robosuite WARNING] To setup, run: python F:\5418\.conda\grasp_rl\lib\site-packages\robosuite/scripts/setup_macros.py (macros.py:59)
+[robosuite WARNING] Could not import robosuite_models. Some robots may not be available. If you want to use these robots, please install robosuite_models from source (https://github.com/ARISE-Initiative/robosuite_models) or through pip install. (__init__.py:30)
+[robosuite WARNING] Could not load the mink-based whole-body IK. Make sure you install related import properly, otherwise you will not be able to use the default IK controller setting for GR1 robot. (__init__.py:40)
+[robosuite INFO] Loading controller configuration from: F:\5418\.conda\grasp_rl\lib\site-packages\robosuite\controllers\config\default\composite\basic.json (composite_controller_factory.py:121)
+Episode 0: observation=(60,), action=(7,), reset_info={'reward_mode': 'fixed', 'weights': array([0.3, 0.3, 0.4], dtype=float32)}
+step=1 reward=0.0534 terminated=False truncated=False distance=0.2326 grasp=False success=False
+step=21 reward=0.0323 terminated=False truncated=False distance=0.2866 grasp=False success=False
+step=41 reward=0.0268 terminated=False truncated=False distance=0.3061 grasp=False success=False
+step=61 reward=0.0247 terminated=False truncated=False distance=0.3149 grasp=False success=False
+step=81 reward=0.0254 terminated=False truncated=False distance=0.3121 grasp=False success=False
+step=101 reward=0.0161 terminated=False truncated=False distance=0.3590 grasp=False success=False
+step=121 reward=0.0180 terminated=False truncated=False distance=0.3475 grasp=False success=False
+step=141 reward=0.0316 terminated=False truncated=False distance=0.2889 grasp=False success=False
+step=161 reward=0.0374 terminated=False truncated=False distance=0.2711 grasp=False success=False
+step=181 reward=0.0314 terminated=False truncated=False distance=0.2897 grasp=False success=False
+step=200 reward=0.0263 terminated=False truncated=True distance=0.3081 grasp=False success=False

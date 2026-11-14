@@ -1,0 +1,442 @@
+[
+  {
+    "step": 1,
+    "reward": 0.13762743771076202,
+    "distance": 0.20437097059561443,
+    "grasp": false,
+    "cube_z": 0.8185388796305257,
+    "success": false
+  },
+  {
+    "step": 2,
+    "reward": 0.15049032866954803,
+    "distance": 0.19421795448030885,
+    "grasp": false,
+    "cube_z": 0.8174259975338812,
+    "success": false
+  },
+  {
+    "step": 3,
+    "reward": 0.16904693841934204,
+    "distance": 0.18080625063244124,
+    "grasp": false,
+    "cube_z": 0.8187158922660589,
+    "success": false
+  },
+  {
+    "step": 4,
+    "reward": 0.18768541514873505,
+    "distance": 0.16852274140709342,
+    "grasp": false,
+    "cube_z": 0.819328754373566,
+    "success": false
+  },
+  {
+    "step": 5,
+    "reward": 0.20480169355869293,
+    "distance": 0.15808999015654718,
+    "grasp": false,
+    "cube_z": 0.8196064454975549,
+    "success": false
+  },
+  {
+    "step": 6,
+    "reward": 0.21949537098407745,
+    "distance": 0.14967362968452214,
+    "grasp": false,
+    "cube_z": 0.8197384662391879,
+    "success": false
+  },
+  {
+    "step": 7,
+    "reward": 0.23160603642463684,
+    "distance": 0.14306012602014326,
+    "grasp": false,
+    "cube_z": 0.8198029610529282,
+    "success": false
+  },
+  {
+    "step": 8,
+    "reward": 0.2413368970155716,
+    "distance": 0.13793458713601,
+    "grasp": false,
+    "cube_z": 0.8198348391518794,
+    "success": false
+  },
+  {
+    "step": 9,
+    "reward": 0.24902527034282684,
+    "distance": 0.13399331587378738,
+    "grasp": false,
+    "cube_z": 0.8198506806847274,
+    "success": false
+  },
+  {
+    "step": 10,
+    "reward": 0.25504639744758606,
+    "distance": 0.1309690453733348,
+    "grasp": false,
+    "cube_z": 0.8198585733001826,
+    "success": false
+  },
+  {
+    "step": 11,
+    "reward": 0.2597287893295288,
+    "distance": 0.12865304285729243,
+    "grasp": false,
+    "cube_z": 0.819862510539119,
+    "success": false
+  },
+  {
+    "step": 12,
+    "reward": 0.263355016708374,
+    "distance": 0.12688014213433424,
+    "grasp": false,
+    "cube_z": 0.819864475857617,
+    "success": false
+  },
+  {
+    "step": 13,
+    "reward": 0.266161173582077,
+    "distance": 0.12552018887926733,
+    "grasp": false,
+    "cube_z": 0.8198654571725742,
+    "success": false
+  },
+  {
+    "step": 14,
+    "reward": 0.268338680267334,
+    "distance": 0.12447194848530653,
+    "grasp": false,
+    "cube_z": 0.8198659472343136,
+    "success": false
+  },
+  {
+    "step": 15,
+    "reward": 0.2781822681427002,
+    "distance": 0.11980709753561351,
+    "grasp": false,
+    "cube_z": 0.8198661919864813,
+    "success": false
+  },
+  {
+    "step": 16,
+    "reward": 0.2954674959182739,
+    "distance": 0.1118859382226641,
+    "grasp": false,
+    "cube_z": 0.819866314228061,
+    "success": false
+  },
+  {
+    "step": 17,
+    "reward": 0.315102219581604,
+    "distance": 0.1032575176866151,
+    "grasp": false,
+    "cube_z": 0.8198663752828417,
+    "success": false
+  },
+  {
+    "step": 18,
+    "reward": 0.336105614900589,
+    "distance": 0.09440251136480957,
+    "grasp": false,
+    "cube_z": 0.819866405777555,
+    "success": false
+  },
+  {
+    "step": 19,
+    "reward": 0.35823917388916016,
+    "distance": 0.08542951621970221,
+    "grasp": false,
+    "cube_z": 0.8198664210086629,
+    "success": false
+  },
+  {
+    "step": 20,
+    "reward": 0.3814176023006439,
+    "distance": 0.07636793005302817,
+    "grasp": false,
+    "cube_z": 0.8198664286161197,
+    "success": false
+  },
+  {
+    "step": 21,
+    "reward": 0.4055769443511963,
+    "distance": 0.06723056105278233,
+    "grasp": false,
+    "cube_z": 0.8198664324158081,
+    "success": false
+  },
+  {
+    "step": 22,
+    "reward": 0.4306429922580719,
+    "distance": 0.05802757868321369,
+    "grasp": false,
+    "cube_z": 0.8198664343136357,
+    "success": false
+  },
+  {
+    "step": 23,
+    "reward": 0.4554501175880432,
+    "distance": 0.04914936985602929,
+    "grasp": false,
+    "cube_z": 0.8198664352615427,
+    "success": false
+  },
+  {
+    "step": 24,
+    "reward": 0.4781181216239929,
+    "distance": 0.04120038415471272,
+    "grasp": false,
+    "cube_z": 0.8198664357349932,
+    "success": false
+  },
+  {
+    "step": 25,
+    "reward": 0.4977204501628876,
+    "distance": 0.034429306376884364,
+    "grasp": false,
+    "cube_z": 0.8198664359714672,
+    "success": false
+  },
+  {
+    "step": 26,
+    "reward": 0.5142503976821899,
+    "distance": 0.028780241445297797,
+    "grasp": false,
+    "cube_z": 0.8198664360895789,
+    "success": false
+  },
+  {
+    "step": 27,
+    "reward": 0.5279800891876221,
+    "distance": 0.024122959449561904,
+    "grasp": false,
+    "cube_z": 0.8198664361485719,
+    "success": false
+  },
+  {
+    "step": 28,
+    "reward": 0.539258599281311,
+    "distance": 0.02031672952172098,
+    "grasp": false,
+    "cube_z": 0.8198664361780372,
+    "success": false
+  },
+  {
+    "step": 29,
+    "reward": 0.5484409928321838,
+    "distance": 0.01722882935715668,
+    "grasp": false,
+    "cube_z": 0.8198664361927542,
+    "success": false
+  },
+  {
+    "step": 30,
+    "reward": 0.5558611750602722,
+    "distance": 0.014739568517424178,
+    "grasp": false,
+    "cube_z": 0.819866436200105,
+    "success": false
+  },
+  {
+    "step": 31,
+    "reward": 0.5618215203285217,
+    "distance": 0.012743390036293595,
+    "grasp": false,
+    "cube_z": 0.8198664362037765,
+    "success": false
+  },
+  {
+    "step": 32,
+    "reward": 0.5665879249572754,
+    "distance": 0.011148896823512989,
+    "grasp": false,
+    "cube_z": 0.8198664362056105,
+    "success": false
+  },
+  {
+    "step": 33,
+    "reward": 0.5703885555267334,
+    "distance": 0.009878514404404955,
+    "grasp": false,
+    "cube_z": 0.8198664362065263,
+    "success": false
+  },
+  {
+    "step": 34,
+    "reward": 0.5734139084815979,
+    "distance": 0.008867839814768188,
+    "grasp": false,
+    "cube_z": 0.819866436206984,
+    "success": false
+  },
+  {
+    "step": 35,
+    "reward": 0.5758194327354431,
+    "distance": 0.008064571738296427,
+    "grasp": false,
+    "cube_z": 0.8198664362072122,
+    "success": false
+  },
+  {
+    "step": 36,
+    "reward": 0.8773098587989807,
+    "distance": 0.007567010443992806,
+    "grasp": true,
+    "cube_z": 0.8197454673433451,
+    "success": false
+  },
+  {
+    "step": 37,
+    "reward": 0.8772371411323547,
+    "distance": 0.007591268705272193,
+    "grasp": true,
+    "cube_z": 0.8193626705821846,
+    "success": false
+  },
+  {
+    "step": 38,
+    "reward": 0.8772937059402466,
+    "distance": 0.007572389666467354,
+    "grasp": true,
+    "cube_z": 0.8191124460284684,
+    "success": false
+  },
+  {
+    "step": 39,
+    "reward": 0.877356767654419,
+    "distance": 0.007551346510986274,
+    "grasp": true,
+    "cube_z": 0.8189420483521175,
+    "success": false
+  },
+  {
+    "step": 40,
+    "reward": 0.8774303197860718,
+    "distance": 0.007526795896491351,
+    "grasp": true,
+    "cube_z": 0.8188237566512976,
+    "success": false
+  },
+  {
+    "step": 41,
+    "reward": 0.877500057220459,
+    "distance": 0.007503509061651795,
+    "grasp": true,
+    "cube_z": 0.8187444045292119,
+    "success": false
+  },
+  {
+    "step": 42,
+    "reward": 0.8775724768638611,
+    "distance": 0.007479336731610493,
+    "grasp": true,
+    "cube_z": 0.818695555234127,
+    "success": false
+  },
+  {
+    "step": 43,
+    "reward": 0.8776474595069885,
+    "distance": 0.007454304799241494,
+    "grasp": true,
+    "cube_z": 0.8186658519481557,
+    "success": false
+  },
+  {
+    "step": 44,
+    "reward": 0.8777239918708801,
+    "distance": 0.007428774645951127,
+    "grasp": true,
+    "cube_z": 0.8186479855201045,
+    "success": false
+  },
+  {
+    "step": 45,
+    "reward": 0.8778013586997986,
+    "distance": 0.007402939457110873,
+    "grasp": true,
+    "cube_z": 0.8186377017891294,
+    "success": false
+  },
+  {
+    "step": 46,
+    "reward": 0.87787926197052,
+    "distance": 0.00737692605634015,
+    "grasp": true,
+    "cube_z": 0.8186324664578928,
+    "success": false
+  },
+  {
+    "step": 47,
+    "reward": 0.8779575228691101,
+    "distance": 0.007350817557891843,
+    "grasp": true,
+    "cube_z": 0.8186307235946222,
+    "success": false
+  },
+  {
+    "step": 48,
+    "reward": 0.878035843372345,
+    "distance": 0.0073246696014289256,
+    "grasp": true,
+    "cube_z": 0.8186314895659706,
+    "success": false
+  },
+  {
+    "step": 49,
+    "reward": 0.8781142234802246,
+    "distance": 0.007298498870373707,
+    "grasp": true,
+    "cube_z": 0.8186341692190925,
+    "success": false
+  },
+  {
+    "step": 50,
+    "reward": 0.8781938552856445,
+    "distance": 0.007271932380238542,
+    "grasp": true,
+    "cube_z": 0.818640793963194,
+    "success": false
+  },
+  {
+    "step": 51,
+    "reward": 0.8782503008842468,
+    "distance": 0.007253095063004656,
+    "grasp": true,
+    "cube_z": 0.8186538073353539,
+    "success": false
+  },
+  {
+    "step": 52,
+    "reward": 0.8782342672348022,
+    "distance": 0.0072584459025893085,
+    "grasp": true,
+    "cube_z": 0.8223748498680765,
+    "success": false
+  },
+  {
+    "step": 53,
+    "reward": 0.8781996965408325,
+    "distance": 0.007269974713369391,
+    "grasp": true,
+    "cube_z": 0.8299893918082863,
+    "success": false
+  },
+  {
+    "step": 54,
+    "reward": 0.8990398645401001,
+    "distance": 0.0072803658755384885,
+    "grasp": true,
+    "cube_z": 0.8384304663750455,
+    "success": false
+  },
+  {
+    "step": 55,
+    "reward": 0.9781389236450195,
+    "distance": 0.007290279672592498,
+    "grasp": true,
+    "cube_z": 0.8470891194372198,
+    "success": true
+  }
+]

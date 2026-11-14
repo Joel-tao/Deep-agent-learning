@@ -1,0 +1,9 @@
+{
+  "archive": "Group36_AdaptiveGrasp_Submission.zip",
+  "integrity": "passed",
+  "sha256_files_checked": 94,
+  "extracted_demo_success": true,
+  "steps": 59,
+  "python": "F:\\5418\\.conda\\reproduce\\python.exe",
+  "note": "Extracted ZIP executed with fresh reproduced Conda environment."
+}

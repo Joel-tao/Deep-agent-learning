@@ -1,0 +1,11 @@
+[robosuite WARNING] No private macro file found! (macros.py:57)
+[robosuite WARNING] It is recommended to use a private macro file (macros.py:58)
+[robosuite WARNING] To setup, run: python F:\5418\.conda\reproduce\lib\site-packages\robosuite/scripts/setup_macros.py (macros.py:59)
+[robosuite WARNING] Could not import robosuite_models. Some robots may not be available. If you want to use these robots, please install robosuite_models from source (https://github.com/ARISE-Initiative/robosuite_models) or through pip install. (__init__.py:30)
+[robosuite WARNING] Could not load the mink-based whole-body IK. Make sure you install related import properly, otherwise you will not be able to use the default IK controller setting for GR1 robot. (__init__.py:40)
+[robosuite INFO] Loading controller configuration from: F:\5418\.conda\reproduce\lib\site-packages\robosuite\controllers\config\default\composite\basic.json (composite_controller_factory.py:121)
+Episode 0: observation=(60,), action=(7,), reset_info={'reward_mode': 'fixed', 'weights': array([0.3, 0.3, 0.4], dtype=float32)}
+step=1 reward=0.0589 terminated=False truncated=False distance=0.2218 grasp=False success=False
+step=21 reward=0.1591 terminated=False truncated=False distance=0.1019 grasp=False success=False
+step=41 reward=0.5889 terminated=False truncated=False distance=0.0074 grasp=True success=False
+step=59 reward=0.9893 terminated=True truncated=False distance=0.0071 grasp=True success=True

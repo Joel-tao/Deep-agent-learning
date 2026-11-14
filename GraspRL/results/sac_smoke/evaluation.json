@@ -1,0 +1,12 @@
+{
+  "model": "results\\sac_smoke\\sac_model.zip",
+  "success_rate": 0.0,
+  "episodes": [
+    {
+      "seed": 1000,
+      "steps": 200,
+      "success": false
+    }
+  ],
+  "note": "Single-policy evaluation; no cross-condition conclusion."
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "episode": 0,
+    "seed": 42,
+    "policy": "scripted",
+    "mode": "fixed",
+    "steps": 59,
+    "return": 18.867033999413252,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 531.5,
+    "elapsed_seconds": 1.504,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 0,
+      "window_count": 0,
+      "rates": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  }
+]

@@ -1,0 +1,992 @@
+[
+  {
+    "episode": 0,
+    "seed": 42,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 59,
+    "return": 31.181718967854977,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 531.8,
+    "elapsed_seconds": 2.466,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 1,
+      "window_count": 1,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 1,
+    "seed": 43,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 56,
+    "return": 30.536226496100426,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 531.9,
+    "elapsed_seconds": 1.342,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 2,
+      "window_count": 2,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 2,
+    "seed": 44,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 56,
+    "return": 30.77998274564743,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 531.9,
+    "elapsed_seconds": 1.301,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 3,
+      "window_count": 3,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 3,
+    "seed": 45,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 58,
+    "return": 31.273889780044556,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 531.9,
+    "elapsed_seconds": 1.357,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 4,
+      "window_count": 4,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 4,
+    "seed": 46,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 59,
+    "return": 30.91779202222824,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 531.9,
+    "elapsed_seconds": 1.353,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 5,
+      "window_count": 5,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 5,
+    "seed": 47,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 59,
+    "return": 31.4237325116992,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 531.9,
+    "elapsed_seconds": 1.339,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 6,
+      "window_count": 6,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 6,
+    "seed": 48,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 57,
+    "return": 30.73436264693737,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 531.9,
+    "elapsed_seconds": 1.298,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 7,
+      "window_count": 7,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 7,
+    "seed": 49,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 60,
+    "return": 31.61971388757229,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 531.9,
+    "elapsed_seconds": 1.37,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 8,
+      "window_count": 8,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 8,
+    "seed": 50,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 57,
+    "return": 30.439298942685127,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 532.0,
+    "elapsed_seconds": 1.335,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 9,
+      "window_count": 9,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 9,
+    "seed": 51,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 58,
+    "return": 30.65648728609085,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 532.0,
+    "elapsed_seconds": 1.323,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 10,
+      "window_count": 10,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 10,
+    "seed": 52,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 55,
+    "return": 30.28139701485634,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 532.0,
+    "elapsed_seconds": 1.266,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 11,
+      "window_count": 11,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 11,
+    "seed": 53,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 58,
+    "return": 30.656456135213375,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 532.0,
+    "elapsed_seconds": 1.34,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 12,
+      "window_count": 12,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 12,
+    "seed": 54,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 55,
+    "return": 30.546507939696312,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 532.0,
+    "elapsed_seconds": 1.266,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 13,
+      "window_count": 13,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 13,
+    "seed": 55,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 60,
+    "return": 31.100268192589283,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 532.0,
+    "elapsed_seconds": 1.366,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 14,
+      "window_count": 14,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 14,
+    "seed": 56,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 56,
+    "return": 30.225661978125572,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 532.0,
+    "elapsed_seconds": 1.267,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 15,
+      "window_count": 15,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 15,
+    "seed": 57,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 58,
+    "return": 31.207060612738132,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 532.0,
+    "elapsed_seconds": 1.321,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 16,
+      "window_count": 16,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 16,
+    "seed": 58,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 55,
+    "return": 30.543154180049896,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 532.0,
+    "elapsed_seconds": 1.297,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 17,
+      "window_count": 17,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 17,
+    "seed": 59,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 60,
+    "return": 31.343531377613544,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 532.0,
+    "elapsed_seconds": 1.404,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 18,
+      "window_count": 18,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 18,
+    "seed": 60,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 60,
+    "return": 31.628817461431026,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 532.1,
+    "elapsed_seconds": 1.385,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 19,
+      "window_count": 19,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 19,
+    "seed": 61,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 58,
+    "return": 31.222359143197536,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 532.2,
+    "elapsed_seconds": 1.35,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 20,
+      "window_count": 20,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 20,
+    "seed": 62,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 59,
+    "return": 30.860067330300808,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 532.2,
+    "elapsed_seconds": 1.357,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 21,
+      "window_count": 20,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 21,
+    "seed": 63,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 56,
+    "return": 30.251147612929344,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 532.2,
+    "elapsed_seconds": 1.267,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 22,
+      "window_count": 20,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 22,
+    "seed": 64,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 58,
+    "return": 30.99125138670206,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 532.2,
+    "elapsed_seconds": 1.27,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 23,
+      "window_count": 20,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 23,
+    "seed": 65,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 55,
+    "return": 30.008172571659088,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 532.2,
+    "elapsed_seconds": 1.226,
+    "scheduler": {
+      "stage": 0,
+      "weights": [
+        0.6000000238418579,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "episodes": 24,
+      "window_count": 20,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 24,
+    "seed": 66,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 57,
+    "return": 30.751245513558388,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 532.2,
+    "elapsed_seconds": 1.26,
+    "scheduler": {
+      "stage": 2,
+      "weights": [
+        0.10000000149011612,
+        0.20000000298023224,
+        0.699999988079071
+      ],
+      "episodes": 25,
+      "window_count": 20,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 25,
+    "seed": 67,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 56,
+    "return": 8.953611336648464,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 532.2,
+    "elapsed_seconds": 1.226,
+    "scheduler": {
+      "stage": 2,
+      "weights": [
+        0.10000000149011612,
+        0.20000000298023224,
+        0.699999988079071
+      ],
+      "episodes": 26,
+      "window_count": 20,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 26,
+    "seed": 68,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 57,
+    "return": 8.995277190580964,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 532.2,
+    "elapsed_seconds": 1.265,
+    "scheduler": {
+      "stage": 2,
+      "weights": [
+        0.10000000149011612,
+        0.20000000298023224,
+        0.699999988079071
+      ],
+      "episodes": 27,
+      "window_count": 20,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 27,
+    "seed": 69,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 57,
+    "return": 8.998252671211958,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 532.2,
+    "elapsed_seconds": 1.387,
+    "scheduler": {
+      "stage": 2,
+      "weights": [
+        0.10000000149011612,
+        0.20000000298023224,
+        0.699999988079071
+      ],
+      "episodes": 28,
+      "window_count": 20,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 28,
+    "seed": 70,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 55,
+    "return": 8.731884686276317,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 525.8,
+    "elapsed_seconds": 1.247,
+    "scheduler": {
+      "stage": 2,
+      "weights": [
+        0.10000000149011612,
+        0.20000000298023224,
+        0.699999988079071
+      ],
+      "episodes": 29,
+      "window_count": 20,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "episode": 29,
+    "seed": 71,
+    "policy": "scripted",
+    "mode": "adaptive",
+    "steps": 55,
+    "return": 8.724591752514243,
+    "terminated": true,
+    "truncated": false,
+    "success": true,
+    "stage_ever": [
+      true,
+      true,
+      true
+    ],
+    "peak_process_ram_mib": 525.8,
+    "elapsed_seconds": 1.257,
+    "scheduler": {
+      "stage": 2,
+      "weights": [
+        0.10000000149011612,
+        0.20000000298023224,
+        0.699999988079071
+      ],
+      "episodes": 30,
+      "window_count": 20,
+      "rates": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  }
+]

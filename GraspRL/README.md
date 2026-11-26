@@ -1,21 +1,37 @@
-# Adaptive Reward Shaping for Robotic Grasping
+<div align="center">
 
-ME5418 / Group 36 — Environment Implementation Milestone
+# AdaptiveGrasp-v0 · Gymnasium Environment
+
+**Panda + MuJoCo + robosuite environment for adaptive reward shaping**
+
+*ME5418 Group 36 · Environment Implementation Milestone*
+
+[← Back to main project](../README.md)
+
+<img src="results/scripted_grasp.png" alt="Scripted Panda grasp in AdaptiveGrasp-v0" width="70%">
+
+[Scripted grasp video](results/scripted_demo.mp4) · [Random policy video](results/random_demo.mp4) · [Report (PDF)](report.pdf) · [Validation](VALIDATION.md)
+
+</div>
+
+> **English summary.** `AdaptiveGrasp-v0` wraps the robosuite Panda Lift task as a Gymnasium environment with three reward modes (sparse, fixed, adaptive), an episode-level Reach→Grasp→Lift scheduler, a component replay buffer for SAC, random and scripted demos, and automated tests. The scripted demo is a hand-written controller, not a trained policy, and the bundled short SAC model is a pipeline smoke test only. Detailed documentation below is in Chinese.
+
+---
 
 基于 Panda + MuJoCo + robosuite 的自定义 Gymnasium 环境。交付包括随机策略与脚本抓取演示、三种奖励、Episode Scheduler、接口/物理测试、可选 SAC 和两页英文报告。本项目是环境实现；脚本演示不是训练出来的策略，附带的短程 SAC 模型也没有学会抓取。
 
-## 1. 本机快速运行
+## 1. 快速运行
 
-本机已经安装了独立环境，不修改其他项目环境。在 PowerShell 中执行：
+在已激活 `grasp_rl` 环境（见第 2 节）的终端中，进入本目录：
 
-```powershell
-cd F:\5418\GraspRL
-& F:\5418\.conda\grasp_rl\python.exe demo.py --policy scripted --horizon 300 --realtime
+```text
+cd GraspRL
+python demo.py --policy scripted --horizon 300 --realtime
 ```
 
-也可以双击 `run_scripted_demo.cmd`。MuJoCo 窗口会展示机器人接近、抓住并抬起方块，Episode 成功后关闭。需要再次观看可重新运行；不需要先训练。随机策略演示双击 `run_random_demo.cmd`，它通常不会抓取成功。
+Windows 下也可以双击 `run_scripted_demo.cmd`。MuJoCo 窗口会展示机器人接近、抓住并抬起方块，Episode 成功后关闭；不需要先训练。随机策略演示可双击 `run_random_demo.cmd`，它通常不会抓取成功。
 
-直接查看录像：`results/scripted_demo.mp4`、`results/random_demo.mp4`。
+直接查看录像：[`results/scripted_demo.mp4`](results/scripted_demo.mp4)、[`results/random_demo.mp4`](results/random_demo.mp4)。
 
 ## 2. 新电脑 / 新 Conda 环境安装
 
@@ -116,7 +132,7 @@ python evaluate.py results/adaptive_seed0/sac_model.zip --episodes 20 --seed 100
 
 自动化验证覆盖：两套接口检查；三种奖励与超时；相同 seed reset；跨环境尺寸一致；远离方块时闭合夹爪不会误判；直接设置高处方块触发真实成功判据；脚本通过实际接触完成抓取抬起；Scheduler 升级/退级；Replay 用新权重重算且正确处理超时。
 
-内存：本机系统总 RAM 23.81 GiB；单环境离屏录像在实际日志中约 650–660 MiB RSS（不同运行有波动，不含操作系统及其他程序）。正式训练、加大回放或并行进程需要额外内存。ZIP 不含 `.conda`，不要提交整个 F:\5418 文件夹。
+内存：本机系统总 RAM 23.81 GiB；单环境离屏录像在实际日志中约 650–660 MiB RSS（不同运行有波动，不含操作系统及其他程序）。正式训练、加大回放或并行进程需要额外内存。ZIP 不含 `.conda` 等本地环境目录。
 
 ## 8. 局限与 AI 使用说明
 
